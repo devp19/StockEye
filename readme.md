@@ -10,6 +10,6 @@ Holds the capability to create new channels for your investment portfolio, send 
 - Javascript
 - Environment through node.js (discord.js module)
 - Python
-- HTML/CSS
+- HTML/CSS (Tag-Targetting)
 
 ### FULL OUTLINE COMING SOON
