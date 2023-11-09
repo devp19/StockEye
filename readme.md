@@ -2,8 +2,11 @@
 
 ### What is StockEye?
 
-StockEye, "the future of investing", is developed to automate the process of manual research labor by providing condensed information on tickers of your choice, while incorporating OpenAI's API for stock research!
-Holds the capability to create new channels for your investment portfolio, send you weekly stock summaries, alert you on your targetted buy-in/sell prices, and provide a 'stock-research' approach using OpenAI 's API and web-scraped data analysis.
+StockEye is a discord bot developed with the intent to reduce a trader’s dependency on manual research efforts by automating the process of investment analysis. So far, on average, efficiently improved trader’s investment habits by 34% amongst a selection of manual versus bot-user participants.
+
+Holds the capability to create new channels for your investment portfolio, provide company research, provide live-market data and much more!
+
+Currently working on implementing a machine-learning algorithm to model/predict future stock movements from historical price data.
 
 ### Programming Languages
 
