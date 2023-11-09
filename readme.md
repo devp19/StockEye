@@ -1,4 +1,4 @@
-# StockEye | Discord Bot | UNDER DEVELOPMENT
+# StockEye | Discord Bot
 
 ### What is StockEye?
 
