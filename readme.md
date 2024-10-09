@@ -13,9 +13,7 @@ Currently working on implementing a machine-learning algorithm to model/predict 
 - Javascript
 - Environment through node.js (discord.js module)
 - Python
-- HTML/CSS (Tag-Targetting)
-
-### FULL OUTLINE COMING SOON
+- HTML/CSS (Tag-Targetting for Scrapers)
 
 ### Sample Command Examples
 <img width="637" alt="Screenshot 2023-10-29 at 9 06 17 PM" src="https://github.com/devp19/StockEye/assets/146687531/4da78c6b-1fe8-4e00-a23f-82e52b232aa9">
